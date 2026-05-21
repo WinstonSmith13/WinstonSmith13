@@ -14,18 +14,6 @@ ligue1Analyzer/     # football data nerd mode
 mazot-cosmique/     # WordPress build for a friend's bar
 ai-exploration/     # ComfyUI workflows, LLM experiments
 
-
-> cat about.txt
-Non-linear path.
-Academia → 360° video startup → video editor → 
-photographer (12 years) → full-stack dev.
-
-Turns out every chapter teaches you something 
-the previous one couldn't.
-Currently: building billing infra across 10+ markets at Digital Virgo.
-Previously: early employee at Poulp'US, built from scratch.
-Always: figuring out how things work under the hood.
-
 > cat now.txt
 - Pushing AI into design, video generation & dev workflows
 - Exploring what LLMs can actually do beyond the hype
