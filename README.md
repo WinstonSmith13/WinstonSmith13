@@ -1,33 +1,22 @@
-Full-stack developer. I build things from scratch and I like 
-understanding how they work under the hood.
+Full-stack dev. PHP · Vue.js / Nuxt 3 · Docker · AWS · AI tooling.
 
-Currently at **Digital Virgo** — maintaining billing infrastructure 
-across 10+ markets. PHP, Docker, AWS, carrier APIs, Stripe, Apple Pay.
-
-Previously at **Poulp'US** — early employee, built features from the 
-ground up with Vue.js / Nuxt 3 and Node.js.
+Building things, breaking things, understanding why.
 
 ---
 
-### Stack
+**What's in here**
 
-**Frontend** — Vue.js · Nuxt 3 · React · TypeScript · Tailwind  
-**Backend** — PHP · Node.js · MongoDB  
-**Infra** — Docker · AWS EC2 · Nginx · Bash · ElastiCache · CloudFront  
-**Payments** — Carrier Billing / DCB · Stripe · Apple Pay  
-**AI** — LLM integration · ComfyUI · Claude Code  
-**Tools** — Git · CI/CD · GitHub Actions  
-
----
-
-### A few things about me
-
-- Non-linear path: academia → 360° video startup → video production → 
-  photographer for 12 years → dev. Each chapter stacks.
-- I adopt AI tooling seriously — not as a trend, as a way to work better.
-- I work best when there's real ownership and things actually ship.
+- Billing infrastructure & carrier API integrations (work)
+- Football analytics — `ligue1Analyzer` (Jupyter / data)
+- Advent of Code — `advent_code` (JS, keeps the brain sharp)
+- AI exploration — ComfyUI workflows, LLM experiments
+- Random builds when an idea won't leave me alone
 
 ---
 
-📬 medy.krouk@gmail.com  
-🔗 [linkedin.com/in/medykrouk](https://linkedin.com/in/medykrouk)
+**Currently into**
+- Pushing the limits of AI in design & video generation
+- Making dev workflows faster with LLM tooling
+- Whatever breaks on a Monday morning in production
+
+---
