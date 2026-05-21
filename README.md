@@ -1,6 +1,6 @@
 ```
 > whoami
-medy_krouk — full-stack dev, builder, occasional chaos enjoyer
+medy_krouk — full-stack dev, builder
 
 > cat stack.txt
 PHP · Vue.js · Nuxt 3 · Node.js · TypeScript · Tailwind
