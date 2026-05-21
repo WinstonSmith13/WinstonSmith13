@@ -1,5 +1,3 @@
-# Medy Krouk
-
 Full-stack developer. I build things from scratch and I like 
 understanding how they work under the hood.
 
