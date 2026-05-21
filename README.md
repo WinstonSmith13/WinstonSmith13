@@ -9,15 +9,15 @@ Stripe · Carrier Billing / DCB · Apple Pay
 LLM · ComfyUI · Claude Code · WanVideo
 
 > ls ~/projects
-advent_code/        # JS — keeps the brain sharp
-ligue1Analyzer/     # football data nerd mode
-mazot-cosmique/     # WordPress build for a friend's bar
-ai-exploration/     # ComfyUI workflows, LLM experiments
+advent_code/        # JS — Advent of Code, keeps the brain sharp
+ligue1Analyzer/     # football data nerd mode — Jupyter / Python
+DevEnvBackup/       # bash scripts to migrate a full dev env 
+                    # between machines without losing your mind
+fabulous/           # WebApp — Antibody Research (Python)
 
 > cat now.txt
 - Pushing AI into design, video generation & dev workflows
 - Exploring what LLMs can actually do beyond the hype
-- Whatever broke in production this Monday
 
 > echo $PHILOSOPHY
 Build things that work. Understand why they break.
