@@ -13,7 +13,7 @@ advent_code/        # JS — keeps the brain sharp
 ligue1Analyzer/     # football data nerd mode
 mazot-cosmique/     # WordPress build for a friend's bar
 ai-exploration/     # ComfyUI workflows, LLM experiments
-[REDACTED]/         # things that aren't ready yet
+
 
 > cat about.txt
 Non-linear path.
